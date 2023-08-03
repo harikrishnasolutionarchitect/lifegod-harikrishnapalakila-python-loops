@@ -1,4 +1,4 @@
-print("Select the operation to perform:")
+print("Select the operation to perform   :")
 print("1. Addition")
 print("2. Subtraction")
 print("3. Multiply")
